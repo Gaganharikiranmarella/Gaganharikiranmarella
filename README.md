@@ -4,5 +4,5 @@
 C, Java, Python, HTML, CSS, JavaScript, Lua, Assembly Language Programming
 - Technical Skills:
 AI&ML Systems Engineering, AI Tools and Chatbot Expertise, Generative AI, AI in Robotics
-- Non Technical Skills
+- Non Technical Skills:
 Great Public Speaking abilities, critical and logical thinking, team player and leader
